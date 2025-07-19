@@ -1,2 +1,4 @@
 # saturation
-mini project to check for saturation in the job market as opposed to the observed 'hype' factor
+A project to run RFM (Recency, Frequency, Monetary Value) and Basket Size analysis on a retail dataset.
+
+This data set was acquired from: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
